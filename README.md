@@ -19,7 +19,6 @@ Options:
 
 Keywords:
 --all -> Searches all mp3 files generating a playlist and execute it.
---started-from-file %U -> Execute the last playlist saved
 
 Example:
 play -R
